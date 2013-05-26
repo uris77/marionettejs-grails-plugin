@@ -1,0 +1,8 @@
+*.iws
+.settings
+eclipse
+*.log
+target
+.idea
+*.iml
+/web-app/WEB-INF
