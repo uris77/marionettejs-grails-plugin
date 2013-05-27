@@ -6,3 +6,5 @@ target
 .idea
 *.iml
 /web-app/WEB-INF
+plugin.xml
+*.zip
